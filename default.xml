@@ -837,7 +837,7 @@
     <!-- Some Lineage repos -->
     <include name="snippets/los.xml" />
     
-    <!-- dot OS repos -->
-    <include name="snippets/dot.xml" />
+    <!-- dotOS Fan Edition repos -->
+    <include name="snippets/dotfe.xml" />
 
 </manifest>
