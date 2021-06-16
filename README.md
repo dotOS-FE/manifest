@@ -35,4 +35,5 @@ Credits:
  * [**AOSP**](https://android.googlesource.com)
  * [**LineageOS**](https://github.com/LineageOS)
  * [**DirtyUnicorns**](https://github.com/dirtyunicorns)
+ * [**Droid On Time**](https://github.com/dotOS)
  * [**PixelExperience**](https://github.com/PixelExperience)
