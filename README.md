@@ -25,7 +25,7 @@ Now, you are ready! You can build Thunder-StROMs:
 
 ```bash
 source build/envsetup.sh
-lunch dot_<devicecodename>-userdebug
+lunch dotfe_<devicecodename>-userdebug
 make bacon
 ```
 -----------------------------------------------------------------------------
