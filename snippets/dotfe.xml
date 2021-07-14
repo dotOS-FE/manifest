@@ -60,6 +60,7 @@
   <project path="prebuilts/sdk" name="android_prebuilts_sdk" remote="dot-FE-gitlab" />
 
   <!-- External Repos -->
+  <project path="external/bromite-webview" name="android_external_bromite-webview" remote="dotfe" />
   <project path="external/tinycompress" name="android_external_tinycompress" remote="dotfe" />
   <project path="external/selinux" name="android_external_selinux" remote="dotfe" />
   <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="dotfe" />
